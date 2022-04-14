@@ -9,34 +9,15 @@
 [![Email](https://img.shields.io/badge/Gmail-8B4513?&style=for-the-badge&labelColor=8B4513)](mailto:rafagabidulin@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rafagabidulin)
 
-### ⚡ My pet-projects:
-#### [Brain games](https://github.com/rafagabidulin/frontend-project-lvl1)
+## ⚡ My pet-projects:
+### [Brain games](https://github.com/rafagabidulin/frontend-project-lvl1)
 «Brain games» is a set of 5 different console games
 
-#### [Difference calculator](https://github.com/rafagabidulin/frontend-project-lvl2)
+### [Difference calculator](https://github.com/rafagabidulin/frontend-project-lvl2)
  This is utility, which shows the difference between two JSON (or YAML) files
  
-#### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
+### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
 Simple todo-app for daily tasks on React
 
-#### [Bangkok Express](https://github.com/rafagabidulin/jsbasic-20210921-5_rafagabidulin/tree/master/6-module/2-task)
+### [Bangkok Express](https://github.com/rafagabidulin/jsbasic-20210921-5_rafagabidulin/tree/master/6-module/2-task)
 Restaurant with online order "Bangkok Express" (It's not finished yet)
-
-
- 
- 
- 
-<!--
-**rafagabidulin/rafagabidulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
