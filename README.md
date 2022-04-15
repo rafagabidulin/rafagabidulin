@@ -14,7 +14,7 @@
 «Brain games» is a set of 5 different console games
 
 ### [Difference calculator](https://github.com/rafagabidulin/frontend-project-lvl2)
- This is utility, which shows the difference between two JSON (or YAML) files
+ This is a utility, which shows the difference between two JSON (or YAML) files
  
 ### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
 Simple todo-app for daily tasks on React
