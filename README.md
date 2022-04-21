@@ -19,5 +19,5 @@
 ### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
 Simple todo-app for daily tasks on React
 
-### [Bangkok Express](https://github.com/rafagabidulin/jsbasic-20210921-5_rafagabidulin/tree/master/6-module/2-task)
+### [Bangkok Express](https://github.com/rafagabidulin/jsbasic-20210921-5_rafagabidulin)
 Restaurant with online order "Bangkok Express" (It's not finished yet)
