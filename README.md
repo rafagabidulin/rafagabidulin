@@ -11,10 +11,13 @@
 
 ## ⚡ My pet-projects:
 ### [Brain games](https://github.com/rafagabidulin/frontend-project-lvl1)
-«Brain games» is a set of 5 different console games
+A set of 5 different console games
 
 ### [Difference calculator](https://github.com/rafagabidulin/frontend-project-lvl2)
- This is a utility, which shows the difference between two JSON (or YAML) files
+This is a utility, which shows the difference between two JSON (or YAML) files
+ 
+### [React-pizza](https://github.com/rafagabidulin/react-pizza)
+Online store developed on React
  
 ### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
 Simple todo-app for daily tasks on React
