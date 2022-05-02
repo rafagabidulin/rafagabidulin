@@ -17,10 +17,10 @@ A set of 5 different console games
 This is a utility, which shows the difference between two JSON (or YAML) files
  
 ### [React-pizza](https://github.com/rafagabidulin/react-pizza)
-Online store developed on React
+Online store developed on React (on development stage)
  
 ### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
 Simple todo-app for daily tasks on React
 
 ### [Bangkok Express](https://github.com/rafagabidulin/jsbasic-20210921-5_rafagabidulin)
-Restaurant with online order "Bangkok Express" (It's not finished yet)
+Restaurant with online order "Bangkok Express" (it's not finished yet)
