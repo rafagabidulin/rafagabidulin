@@ -21,6 +21,3 @@ Online store developed on React (on development stage)
  
 ### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
 Simple todo-app for daily tasks on React
-
-### [Bangkok Express](https://github.com/rafagabidulin/jsbasic-20210921-5_rafagabidulin)
-Restaurant with online order "Bangkok Express" (it's not finished yet)
