@@ -17,7 +17,7 @@ A set of 5 different console games
 This is a utility, which shows the difference between two JSON (or YAML) files
  
 ### [React-pizza](https://github.com/rafagabidulin/react-pizza)
-Online store developed on React (on development stage)
+Online store developed on React
  
 ### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
 Simple todo-app for daily tasks on React
