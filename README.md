@@ -15,9 +15,12 @@ A set of 5 different console games
 
 ### [Difference calculator](https://github.com/rafagabidulin/frontend-project-lvl2)
 This is a utility, which shows the difference between two JSON (or YAML) files
+
+### [Admin Dashboard](https://github.com/rafagabidulin/project-shop-admin)
+Typical "Control Panel" for a product store, implemented using vanilla JavaScript
  
 ### [React-pizza](https://github.com/rafagabidulin/react-pizza)
-Online store developed on React
+Online store developed using React, Redux
  
 ### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
 Simple todo-app for daily tasks on React
