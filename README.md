@@ -23,4 +23,4 @@ Typical "Control Panel" for a product store, implemented using vanilla JavaScrip
 Online store developed using React, Redux
  
 ### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
-Simple todo-app for daily tasks on React
+Simple todo-app for daily tasks implemented using React
