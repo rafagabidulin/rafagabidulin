@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I'm+Rafael)](https://git.io/typing-svg)
 
-🌱 I’m currently learning JavaScript, React
+🌱 I’m currently learning JavaScript, TypeScript, React, Redux
 
 😄 I'm looking for a job as a junior Frontend developer
 
@@ -17,10 +17,10 @@ A set of 5 different console games
 This is a utility, which shows the difference between two JSON (or YAML) files
 
 ### [Admin Dashboard](https://github.com/rafagabidulin/project-shop-admin)
-Typical "Control Panel" for a product store, implemented using vanilla JavaScript
+Typical "Control Panel" for a product store, implemented by using vanilla JavaScript
  
 ### [React-pizza](https://github.com/rafagabidulin/react-pizza)
-Online store developed using React, Redux
+Online store developed by using React, Redux
  
-### [Todo-app](https://github.com/rafagabidulin/react-todo-app)
-Simple todo-app for daily tasks implemented using React
+### [Todo-app](https://github.com/rafagabidulin/todo-list-react-ts)
+Simple todo-app for daily tasks implemented by using React and TypeScript
