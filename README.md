@@ -1,6 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I'm+Rafael)](https://git.io/typing-svg)
 
-🌱 I’m currently learning JavaScript, TypeScript, React, Redux
+🌱 I’m currently learning JavaScript/TypeScript, React (hooks), Redux (Redux toolkit)
 
 😄 I'm looking for a job as a junior Frontend developer
 
