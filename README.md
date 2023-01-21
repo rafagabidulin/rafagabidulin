@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning JavaScript/TypeScript, React (hooks), Redux (Redux toolkit)
 
-😄 I'm looking for a job as a junior Frontend developer
+😄 I'm looking for a job as Frontend developer
 
 📫 How to reach me:
 
@@ -18,9 +18,9 @@ This is a utility, which shows the difference between two JSON (or YAML) files
 
 ### [Admin Dashboard](https://github.com/rafagabidulin/project-shop-admin)
 Typical "Control Panel" for a product store, implemented by using vanilla JavaScript
- 
-### [React-pizza](https://github.com/rafagabidulin/react-pizza)
-Online store developed by using React, Redux
+
+### [Food ordering service](https://github.com/rafagabidulin/food-ordering-service)
+Single page application for ordering food from different restaurants implemented by using React and Redux.
  
 ### [Todo-app](https://github.com/rafagabidulin/todo-list-react-ts)
 Simple todo-app for daily tasks implemented by using React and TypeScript
